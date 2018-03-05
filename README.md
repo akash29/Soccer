@@ -1,5 +1,4 @@
-# Project3
-Correlated-Q-Soccer game
+# Soccer game
 
 Install python 3.5.2
 
